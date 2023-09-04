@@ -1,0 +1,5 @@
+
+[build]
+  command = "npm run build"  # or your build script
+  publish = "dist"  # adjust to your actual publish directory
+  functions = "functions/"
